@@ -5,8 +5,15 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #00031d;
   }
+  body
+  {
+    padding: 0;
+    background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
   
   section{
     position: relative;
@@ -15,7 +22,6 @@
     padding: 100px;
     justify-content: space-between;
     align-items: center;
-    background: #00031d;
   }
   
   header{
